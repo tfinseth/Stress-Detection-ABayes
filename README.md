@@ -17,4 +17,5 @@ Data were collected for the machine-learning pipeline using four physiological s
 
 Forty-one healthy participants (34 male, 7 female) performed a complex task in virtual reality (spaceflight emergency fire, N = 27) or a laboratory-based task (N-back, N = 14). The mean age was 20.9±6.5 years, all adults in the age range of 18-41 years.
 
-
+## Classes
+Each participant completed a task consisting three stressor levels (low, medium, and high). These levels were validated in a previous study (see T. Finseth, M. C. Dorneich, N. Keren, W. D. Franke and S. Vardeman, "Designing Training Scenarios for Stressful Spaceflight Emergency Procedures," 2020 AIAA/IEEE 39th Digital Avionics Systems Conference (DASC), San Antonio, TX, USA, 2020, pp. 1-10, doi: [10.1109/DASC50938.2020.9256403](https://doi.org/10.1109/DASC50938.2020.9256403)).
