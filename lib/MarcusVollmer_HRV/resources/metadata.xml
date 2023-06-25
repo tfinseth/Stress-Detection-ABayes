@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>c9814b58-9c31-40b3-b7bd-f0218199fd21</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>MarcusVollmer/HRV</name>
+  <author>Marcus Vollmer</author>
+  <version>1.04</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/c9814b58-9c31-40b3-b7bd-f0218199fd21/f56bb706-463b-4534-bf15-b361342ed916/packages/zip?src=addons_ml_desktop_install&amp;profile_id=1550214&amp;license=1082052&amp;release_family=R2018b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/c9814b58-9c31-40b3-b7bd-f0218199fd21/1.04/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/c9814b58-9c31-40b3-b7bd-f0218199fd21/f56bb706-463b-4534-bf15-b361342ed916/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/c9814b58-9c31-40b3-b7bd-f0218199fd21/f56bb706-463b-4534-bf15-b361342ed916/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

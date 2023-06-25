@@ -1,0 +1,30 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ECG Feature Extractor Toolbox 
+This toolbox is solely created by Mr.Shantanu V. Deshmukh
+Shantanu Deshmukh is a Research Assistant at University of Michigan - Dearborn
+All rights reserved®
+Cite: For every code use or reuse please cite this toolbox.
+
+Also this toolbox made use of some of the code from Librow toolbox
+Please cite : 
+Chernenko, S. (n.d.). ECG processing ? R-peaks detection. Retrieved July 07, 2017, from http://www.librow.com/cases/case-2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This function computes the ECG features based on temporal as well as spectral analysis
+Note: 
+> winsize= window size
+> wininc= window increment
+> avgHR=Average Heart Rate
+> meanRR= mean R-R interval distance 
+> rmssd= Root Mean Square Distance of Successive R-R interval
+> nn50= Number of R peaks in ECG that differ more than 50 millisecond
+> pnn50= percentage NN50
+> sd_RR= Standard Deviation of R-R series
+> sd_HR= Standard Deviation of Heart Rate
+> se= Sample Entropy
+> pse= Power Spectral Entropy
+> average_hrv= Average Heart Rate Variability
+> hrv= Heart Rate Variability
+
+use:[avgHR,meanRR,rmssd,nn50,pNN50,sd_RR,sd_HR,se,pse,average_hrv,hrv]= getECGFeatures(ecg_signal,winsize,wininc)
+
